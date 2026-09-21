@@ -75,8 +75,7 @@ My goal is simple:
                          └─────────────────────┘
 
 
-</div>
-<div align="center">
+
 #⚡ What I Build
   
 🤖 AI Agents
