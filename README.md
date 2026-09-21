@@ -108,7 +108,7 @@ reporting → customer communication.
 
 # 🛠️ AI & AUTOMATION STACK
 
-
+</div>
 
 ## 🤖 Artificial Intelligence
 <p>
@@ -341,3 +341,5 @@ I'm building AI-powered solutions that help businesses automate repetitive proce
 ### 🤖 BUILDING THE FUTURE WITH AI AUTOMATION
 
 **AI → Intelligence → Automation → Business**
+
+</div>
