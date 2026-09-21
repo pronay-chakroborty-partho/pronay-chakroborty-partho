@@ -1,9 +1,8 @@
 <div align="center">
 
-# 🤖 PRONAY CHAKRABORTY PARTHO
+#  PRONAY CHAKRABORTY PARTHO
 
-### AI Automation Engineer • AI Agent Builder • Automation Architect
-
+### AI Automation Engineer
 <p>
 Building intelligent automation systems that connect
 <b>AI + APIs + Tools + Data + Business Workflows</b>
