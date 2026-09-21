@@ -104,8 +104,10 @@ notification → reporting.
 Product management → order processing → invoice →
 reporting → customer communication.
 
-<div align="center">
 
+
+</div>
+<div align="center">
 # 🛠️ AI & AUTOMATION STACK
 
 </div>
