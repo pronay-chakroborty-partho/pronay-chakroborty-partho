@@ -40,7 +40,7 @@ My goal is simple:
 
 </div>
 
-```text
+
                          ┌─────────────────────┐
                          │       USER          │
                          │   Voice / Text      │
