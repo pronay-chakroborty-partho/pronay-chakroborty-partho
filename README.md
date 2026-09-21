@@ -2,7 +2,6 @@
 
 #  PRONAY CHAKRABORTY PARTHO
 
-### AI Automation Engineer
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:8B6914,100:8B0000&height=220&section=header&text=AI%20AUTOMATION%20ENGINEER&fontSize=38&fontColor=FFD700&animation=fadeIn&fontAlignY=35"/>
 
 </div>
