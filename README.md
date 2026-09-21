@@ -74,31 +74,38 @@ My goal is simple:
                          │ Marketing • Support │
                          └─────────────────────┘
 
+
 </div>
 <div align="center">
 #⚡ What I Build
   
 🤖 AI Agents
+
 AI systems that can understand requests, reason through tasks,
 use tools and interact with business systems.
 
 ⚙️ Business Automation
+
 Automating repetitive business operations using AI,
 workflow automation, APIs and webhooks.
 
 🧠 RAG Systems
+
 Knowledge-based AI systems that retrieve relevant information
 before generating responses.
 
 🔗 API Automation
+
 Connecting different applications and services through
 REST APIs, webhooks and automation workflows.
 
 🎯 Lead Automation
+
 Lead capture → qualification → CRM → follow-up →
 notification → reporting.
 
 🛒 E-commerce Automation
+
 Product management → order processing → invoice →
 reporting → customer communication.
 
