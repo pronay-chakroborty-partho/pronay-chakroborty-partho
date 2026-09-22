@@ -1,6 +1,6 @@
 <div align="center">
 
-#  PRONAY CHAKRABORTY PARTHO
+**#  PRONAY CHAKRABORTY PARTHO**
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:8B6914,100:8B0000&height=220&section=header&text=AI%20AUTOMATION%20ENGINEER&fontSize=38&fontColor=FFD700&animation=fadeIn&fontAlignY=35"/>
 
 ![Profile views](https://komarev.com/ghpvc/?username=pronay-chakroborty-partho&color=gray)
