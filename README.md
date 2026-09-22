@@ -162,8 +162,6 @@ Owner Confirmation
 🔐 Least Privilege · 🛡️ Permission-Based Actions · 🔎 Activity Monitoring · 📝 Audit Logging · 🚨 Threat Detection · 🔒 Credential Protection · ⚠️ Risk-Based Confirmation · 🚫 Fail-Closed Security
 
 ---
----
----
 
 ## 📫 CONNECT WITH ME
 
@@ -186,6 +184,6 @@ Owner Confirmation
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:8B6914,100:000000&height=120&section=footer"/>
 
-### 🤖 BUILDING THE FUTURE WITH CHAKROBORTY AI SOLUTION..🤝🏻
+### 🤖 BUILDING THE FUTURE WITH CHAKROBORTY AI SOLUTION 🤝🏻
 
 </div>
