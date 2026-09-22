@@ -180,7 +180,7 @@ Owner Confirmation
 
 <div align="center">
   
-🌐 **Website:**[chakroborty-ai-solution.lovable.app](https://chakroborty-ai-solution.lovable.app/)
+🌐 [**Chakroborty AI Solution**](https://chakroborty-ai-solution.lovable.app/) 🌐
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:8B6914,100:000000&height=120&section=footer"/>
 
