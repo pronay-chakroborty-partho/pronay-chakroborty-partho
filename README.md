@@ -163,18 +163,6 @@ Owner Confirmation
 
 ---
 
-## 🏢 FOUNDER — Chakroborty AI Solution
-Automate Your Business. Save Time & Money, and Boost Your Sales with Chakroborty AI Solution.
-AI Automation • Graphics Design • Video Editing & AI Video Creation • Website Development • Digital Marketing • SaaS Services
-
-I'm building AI-powered solutions that help businesses automate repetitive processes and create scalable workflows.
-
-🌐 **Website:** [chakroborty-ai-solution.lovable.app](https://chakroborty-ai-solution.lovable.app/)
-
----
-
-<div align="center">
-
 ## 📊 GITHUB ACTIVITY
 
 <img src="https://github-readme-stats.vercel.app/api?username=pronay-chakroborty-partho&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FFD700&icon_color=FF0000&text_color=FFFFFF"/>
@@ -198,6 +186,8 @@ I'm building AI-powered solutions that help businesses automate repetitive proce
 <a href="https://chakroborty-ai-solution.lovable.app/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=FFD700"/>
 </a>
+🌐 **Website:** 🌐
+[chakroborty-ai-solution.lovable.app](https://chakroborty-ai-solution.lovable.app/)
 
 </div>
 
