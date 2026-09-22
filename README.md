@@ -48,8 +48,6 @@ My goal is simple:
 
 </div>
 
-<div align="center">
-  
                          ┌─────────────────────┐
                          │       USER          │
                          │   Voice / Text      │
