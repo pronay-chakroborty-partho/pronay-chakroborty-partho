@@ -10,10 +10,10 @@
 
 ## 🧠 About Me
 
-I'm an **AI Automation Engineer** and Founder of **Chakroborty AI Solution**, focused on designing and building intelligent, AI-powered solutions for real-world business challenges.
-At **Chakroborty AI Solution**, we combine **AI Automation, Custom AI Agents, RAG & Knowledge Systems, API & Webhook Integrations, and SaaS Solutions** to help businesses automate and optimize their operations.
-We also provide **Website Development, Digital Marketing, Graphic Design, and Video Editing** services to help businesses build a strong and professional digital presence.
-My focus is on creating practical and scalable solutions that can **automate repetitive tasks, save time, reduce operational costs, improve efficiency, and support business growth**.
+I'm an **AI Automation Engineer** and Founder of **Chakroborty AI Solution**, focused on designing and building intelligent, AI-powered solutions for real-world business challenges.   
+At **Chakroborty AI Solution**, we combine **AI Automation, Custom AI Agents, RAG & Knowledge Systems, API & Webhook Integrations, and SaaS Solutions** to help businesses automate and optimize their operations.   
+We also provide **Website Development, Digital Marketing, Graphic Design, and Video Editing** services to help businesses build a strong and professional digital presence.   
+My focus is on creating practical and scalable solutions that can **automate repetitive tasks, save time, reduce operational costs, improve efficiency, and support business growth**.   
 
 I believe the future of business lies in combining **Artificial Intelligence, Automation, Technology, Creativity, and Digital Strategy** into one connected ecosystem.
 
