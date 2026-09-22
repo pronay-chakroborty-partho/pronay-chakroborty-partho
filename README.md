@@ -93,11 +93,11 @@ My goal is simple:
 
 <div align="center">
   
-## 🛠️ AI & AUTOMATION STACK 
+# 🛠️ AI & AUTOMATION STACK 
 
 </div>
 
-# 🤖 Artificial Intelligence
+## 🤖 Artificial Intelligence
 <p>
 <img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
@@ -105,7 +105,7 @@ My goal is simple:
 <img src="https://img.shields.io/badge/OpenRouter-000000?style=for-the-badge"/>
 </p>
 
-# ⚙️ Automation
+## ⚙️ Automation
 <p>
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
 <img src="https://img.shields.io/badge/Make-6D00CC?style=for-the-badge"/>
