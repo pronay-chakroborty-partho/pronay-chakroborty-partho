@@ -78,14 +78,12 @@ My goal is simple:
                                     ▼
                          ┌─────────────────────┐
                          │   AUTOMATION ENGINE │
-                         │        n8n           │
+                         │        n8n          │
                          └──────────┬──────────┘
                                     │
                                     ▼
                          ┌─────────────────────┐
                          │  BUSINESS SYSTEMS   │
-                         │ CRM • E-commerce    │
-                         │ Marketing • Support │
                          └─────────────────────┘
 
 
