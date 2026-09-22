@@ -8,9 +8,9 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 
-I'm an **AI Automation Engineer** and Founder of **Chakroborty AI Solution**, focused on designing and building intelligent, AI-powered solutions for real-world business challenges.
+I'm **AI Automation Engineer** and Founder of **Chakroborty AI Solution**, focused on designing and building intelligent, AI-powered solutions for real-world business challenges.
 
 At **Chakroborty AI Solution**, we combine **AI Automation, Custom AI Agents, RAG & Knowledge Systems, API & Webhook Integrations, and SaaS Solutions** to help businesses automate and optimize their operations.   
 We also provide **Website Development, Digital Marketing, Graphic Design, and Video Editing** services to help businesses build a strong and professional digital presence.   
@@ -40,7 +40,6 @@ Build intelligent knowledge systems that connect AI with business documents and 
 
 - 🔗 API & Webhook Integration:   
 Connect different platforms, applications, and services through APIs and webhooks to create seamless, automated data flows and business workflows.
-
 
 
 My goal is simple:
@@ -98,7 +97,7 @@ My goal is simple:
 
 </div>
 
-## 🤖 Artificial Intelligence
+# 🤖 Artificial Intelligence
 <p>
 <img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
@@ -106,7 +105,7 @@ My goal is simple:
 <img src="https://img.shields.io/badge/OpenRouter-000000?style=for-the-badge"/>
 </p>
 
-## ⚙️ Automation
+# ⚙️ Automation
 <p>
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
 <img src="https://img.shields.io/badge/Make-6D00CC?style=for-the-badge"/>
