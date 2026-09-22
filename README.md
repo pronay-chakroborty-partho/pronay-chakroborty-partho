@@ -150,42 +150,6 @@ reporting → customer communication.
 
 ---
 
-
-**Technology:** AI · n8n · APIs · Social Platforms
-
----
-
-## 🧩 AUTOMATION MINDSET
-
-```
-          INPUT
-            │
-            ▼
-      ┌─────────────┐
-      │  Understand │
-      └──────┬──────┘
-             ▼
-      ┌─────────────┐
-      │   Analyze   │
-      └──────┬──────┘
-             ▼
-      ┌─────────────┐
-      │   Decide    │
-      └──────┬──────┘
-             ▼
-      ┌─────────────┐
-      │   Execute   │
-      └──────┬──────┘
-             ▼
-      ┌─────────────┐
-      │   Monitor   │
-      └──────┬──────┘
-             ▼
-           RESULT
-```
-
----
-
 ## 🛡️ AI AUTOMATION SECURITY
 
 I'm interested in building automation systems
@@ -212,8 +176,8 @@ Owner Confirmation
 ---
 
 ## 🏢 FOUNDER — Chakroborty AI Solution
-
-AI Automation • AI Agents • Digital Marketing • Graphics Design • Video Editing • SaaS Services
+Automate Your Business. Save Time & Money, and Boost Your Sales with Chakroborty AI Solution.
+AI Automation • Graphics Design • Video Editing & AI Video Creation • Website Development • Digital Marketing • SaaS Services
 
 I'm building AI-powered solutions that help businesses automate repetitive processes and create scalable workflows.
 
@@ -226,9 +190,6 @@ I'm building AI-powered solutions that help businesses automate repetitive proce
 ## 📊 GITHUB ACTIVITY
 
 <img src="https://github-readme-stats.vercel.app/api?username=pronay-chakroborty-partho&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FFD700&icon_color=FF0000&text_color=FFFFFF"/>
-
-<br/>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pronay-chakroborty-partho&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FFD700&text_color=FFFFFF"/>
 
 </div>
