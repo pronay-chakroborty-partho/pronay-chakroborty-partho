@@ -162,14 +162,6 @@ Owner Confirmation
 🔐 Least Privilege · 🛡️ Permission-Based Actions · 🔎 Activity Monitoring · 📝 Audit Logging · 🚨 Threat Detection · 🔒 Credential Protection · ⚠️ Risk-Based Confirmation · 🚫 Fail-Closed Security
 
 ---
-
-## 📊 GITHUB ACTIVITY
-
-<img src="https://github-readme-stats.vercel.app/api?username=pronay-chakroborty-partho&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FFD700&icon_color=FF0000&text_color=FFFFFF"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pronay-chakroborty-partho&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FFD700&text_color=FFFFFF"/>
-
-</div>
-
 ---
 ---
 
@@ -186,12 +178,11 @@ Owner Confirmation
 <a href="https://chakroborty-ai-solution.lovable.app/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=FFD700"/>
 </a>
-🌐 **Website:** 🌐
-[chakroborty-ai-solution.lovable.app](https://chakroborty-ai-solution.lovable.app/)
-
 </div>
 
 <div align="center">
+  
+🌐 **Website:**[chakroborty-ai-solution.lovable.app](https://chakroborty-ai-solution.lovable.app/)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:8B6914,100:000000&height=120&section=footer"/>
 
