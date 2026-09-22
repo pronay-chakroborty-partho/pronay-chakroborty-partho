@@ -13,14 +13,26 @@
 I'm an **AI Automation Engineer** focused on designing and building
 AI-powered automation systems for real-world business processes.
 
-I work with:
+#  What I Build:
 
 - 📱 Social Media Automation
+Build AI-powered workflows for Facebook, Instagram, TikTok, YouTube, and LinkedIn to automate content publishing, engagement, lead handling, and routine social media tasks.
+
 - 🛒 E-commerce Business Automation
+Build automated workflows for Shopify, WooCommerce, dropshipping, websites, and shopping carts to streamline product, order, customer, and sales processes.
+
 - 🏢 Real Estate Business Automation
+Build automated systems for property lead capture, lead qualification, CRM management, appointment booking, and automated WhatsApp/Email follow-ups.
+
 - 🤖 Custom AI Agent Build
+Build custom AI agents based on each client’s specific business needs to understand their problems, perform tasks, and automate complex workflows.
+
 - 🧠 RAG & Knowledge Systems
+Build intelligent knowledge systems that connect AI with business documents and data, enabling accurate information retrieval and context-aware responses.
+
 - 🔗 API & Webhook Integration
+Connect different platforms, applications, and services through APIs and webhooks to create seamless, automated data flows and business workflows.
+
 
 My goal is simple:
 
@@ -71,37 +83,10 @@ My goal is simple:
                          └─────────────────────┘
 
 
-
-#  What I Build..⚡
-  
-🤖 AI Agents
-AI systems that can understand requests, reason through tasks,
-use tools and interact with business systems.
-
-⚙️ Business Automation
-Automating repetitive business operations using AI,
-workflow automation, APIs and webhooks.
-
-🧠 RAG Systems
-Knowledge-based AI systems that retrieve relevant information
-before generating responses.
-
-🔗 API Automation
-Connecting different applications and services through
-REST APIs, webhooks and automation workflows.
-
-🎯 Lead Automation
-Lead capture → qualification → CRM → follow-up →
-notification → reporting.
-
-🛒 E-commerce Automation
-Product management → order processing → invoice →
-reporting → customer communication.
-
-
-</div>
 <div align="center">
-## 🛠️ AI & AUTOMATION STACK
+</div>
+
+## 🛠️ AI & AUTOMATION STACK 
 
 </div>
 
