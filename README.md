@@ -34,8 +34,8 @@ Build intelligent knowledge systems that connect AI with business documents and 
 Connect different platforms, applications, and services through APIs and webhooks to create seamless, automated data flows and business workflows.
 
 
-My goal is simple:
 
+My goal is simple:
 > **Turn repetitive business processes into intelligent, automated systems.**
 
 ---
@@ -48,7 +48,7 @@ My goal is simple:
 
 </div>
 
-
+<div align="center">
                          ┌─────────────────────┐
                          │       USER          │
                          │   Voice / Text      │
@@ -83,9 +83,10 @@ My goal is simple:
                          └─────────────────────┘
 
 
-<div align="center">
 </div>
 
+<div align="center">
+  
 ## 🛠️ AI & AUTOMATION STACK 
 
 </div>
