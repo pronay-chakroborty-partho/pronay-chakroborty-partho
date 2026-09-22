@@ -15,16 +15,12 @@ AI-powered automation systems for real-world business processes.
 
 I work with:
 
-- 🤖 AI Agents
-- ⚙️ Workflow Automation
-- 🔗 API & Webhook Integration
+- 📱 Social Media Automation
+- 🛒 E-commerce Business Automation
+- 🏢 Real Estate Business Automation
+- 🤖 Custom AI Agent Build
 - 🧠 RAG & Knowledge Systems
-- 📊 Business Process Automation
-- 🎯 Lead & Sales Automation
-- 💬 AI Customer Support
-- 🛒 E-commerce Automation
-- 🏢 CRM Automation
-- 📱 Marketing Automation
+- 🔗 API & Webhook Integration
 
 My goal is simple:
 
