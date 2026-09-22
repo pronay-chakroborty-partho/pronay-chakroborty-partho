@@ -211,23 +211,6 @@ Owner Confirmation
 
 ---
 
-## 🎯 CURRENT FOCUS
-
-- AI Agents
-- AI Automation
-- Multi-Agent Systems
-- RAG
-- Business Process Automation
-- API Integrations
-- CRM Automation
-- Lead Automation
-- E-commerce Automation
-- AI Customer Support
-- AI Security
-- Production AI Systems
-
----
-
 ## 🏢 FOUNDER — Chakroborty AI Solution
 
 AI Automation • AI Agents • Digital Marketing • Graphics Design • Video Editing • SaaS Services
@@ -249,11 +232,6 @@ I'm building AI-powered solutions that help businesses automate repetitive proce
 </div>
 
 ---
-
-## 🔥 CURRENTLY BUILDING & LEARNING
-
-🤖 Advanced AI Agents · ⚙️ Multi-Agent Automation · 🧠 RAG & Knowledge Systems · 🔗 Advanced API Integrations · 🛡️ Secure AI Automation · 🌐 AI-powered Business Platforms · 🚀 Production AI Systems
-
 ---
 
 ## 📫 CONNECT WITH ME
@@ -276,8 +254,6 @@ I'm building AI-powered solutions that help businesses automate repetitive proce
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:8B6914,100:000000&height=120&section=footer"/>
 
-### 🤖 BUILDING THE FUTURE WITH AI AUTOMATION
-
-**AI → Intelligence → Automation → Business**
+### 🤖 BUILDING THE FUTURE WITH CHAKROBORTY AI SOLUTION..🤝🏻
 
 </div>
