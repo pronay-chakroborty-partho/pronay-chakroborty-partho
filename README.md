@@ -165,6 +165,8 @@ Owner Confirmation
 
 <div align="center">
 
+<a href="https://web.facebook.com/chakroborty.ai.solution" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chakroborty.ai.solution" height="30" width="40" /></a><a href="https://web.facebook.com/chakroborty.ai.solution" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chakroborty.ai.solution" height="30" width="40" /></a>
+
 <a href="https://github.com/pronay-chakroborty-partho">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
