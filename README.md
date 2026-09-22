@@ -15,22 +15,22 @@ AI-powered automation systems for real-world business processes.
 
 #  What I Build:
 
-- 📱 Social Media Automation
+- 📱 Social Media Automation:   
 Build AI-powered workflows for Facebook, Instagram, TikTok, YouTube, and LinkedIn to automate content publishing, engagement, lead handling, and routine social media tasks.
 
-- 🛒 E-commerce Business Automation
+- 🛒 E-commerce Business Automation:   
 Build automated workflows for Shopify, WooCommerce, dropshipping, websites, and shopping carts to streamline product, order, customer, and sales processes.
 
-- 🏢 Real Estate Business Automation
+- 🏢 Real Estate Business Automation:   
 Build automated systems for property lead capture, lead qualification, CRM management, appointment booking, and automated WhatsApp/Email follow-ups.
 
-- 🤖 Custom AI Agent Build
+- 🤖 Custom AI Agent Build:   
 Build custom AI agents based on each client’s specific business needs to understand their problems, perform tasks, and automate complex workflows.
 
-- 🧠 RAG & Knowledge Systems
+- 🧠 RAG & Knowledge Systems:   
 Build intelligent knowledge systems that connect AI with business documents and data, enabling accurate information retrieval and context-aware responses.
 
-- 🔗 API & Webhook Integration
+- 🔗 API & Webhook Integration:   
 Connect different platforms, applications, and services through APIs and webhooks to create seamless, automated data flows and business workflows.
 
 
