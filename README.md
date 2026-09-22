@@ -165,8 +165,6 @@ Owner Confirmation
 
 <div align="center">
 
-<a href="https://web.facebook.com/chakroborty.ai.solution" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chakroborty.ai.solution" height="30" width="40" /></a>
-
 <a href="https://github.com/pronay-chakroborty-partho">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
@@ -177,7 +175,11 @@ Owner Confirmation
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=FFD700"/>
 </a>
 
+<a href="https://web.facebook.com/chakroborty.ai.solution" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chakroborty.ai.solution" height="30" width="40" /></a>
+
 <a href="https://www.instagram.com/chakroborty_ai_solution" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chakroborty_ai_solution" height="30" width="40" /></a>
+
+<a href="https://www.youtube.com/@Chakroborty-AI-Solution-111" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Chakroborty AI Solution" height="30" width="40" /></a>
 
 </div>
 
